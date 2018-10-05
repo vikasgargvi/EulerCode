@@ -1,5 +1,5 @@
 # EulerCode
-My jab at Euler Project Problems
+My job at Euler Project Problems
 
 
 # Contributions
